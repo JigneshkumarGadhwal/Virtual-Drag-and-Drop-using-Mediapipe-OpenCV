@@ -1,4 +1,4 @@
-# Virtual-Drag-and-Drop-using-Mediapipe-OpenCV
+# Virtual-Drag-and-Drop-using-Mediapipe OpenCV
 
 
 This project implements a hand gesture-based drag-and-drop system using **Mediapipe Open Source Framework**. The program tracks hand gestures (specifically pinch gestures) to allow users to move predefined rectangles and text boxes on the screen. The rectangles contain letters from the word "ZigGgy", and a movable text box displays the string "An AI Assistant".
